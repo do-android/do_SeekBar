@@ -1,0 +1,10 @@
+*.class
+*.apk
+bin/
+gen/
+.settings/
+proguard/
+*.classpath
+/doExt_do_SeekBar/do_build.xml
+/doExt_do_SeekBar/libs/docore.jar
+/doExt_do_SeekBar/do_SeekBar.zip
